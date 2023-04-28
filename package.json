@@ -4,7 +4,7 @@
   "description": "A general purpose economy Discord bot.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prettier": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/THE-SIMPLE-MARK/Economy-Discord-Bot/issues"
   },
-  "homepage": "https://github.com/THE-SIMPLE-MARK/Economy-Discord-Bot#readme"
+  "homepage": "https://github.com/THE-SIMPLE-MARK/Economy-Discord-Bot#readme",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
 }
