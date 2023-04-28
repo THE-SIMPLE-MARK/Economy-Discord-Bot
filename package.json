@@ -1,0 +1,19 @@
+{
+  "name": "economy-discord-bot",
+  "version": "1.0.0",
+  "description": "A general purpose economy Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THE-SIMPLE-MARK/Economy-Discord-Bot.git"
+  },
+  "author": "SIMPLE MARK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THE-SIMPLE-MARK/Economy-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/THE-SIMPLE-MARK/Economy-Discord-Bot#readme"
+}
