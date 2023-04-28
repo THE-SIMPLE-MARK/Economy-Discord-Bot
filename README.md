@@ -1,2 +1,2 @@
 # Economy-Discord-Bot
-An general purpose economy Discord bot.
+A general purpose economy Discord bot.
